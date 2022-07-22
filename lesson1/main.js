@@ -20,7 +20,7 @@ document.write(a4)
 
 let b1=1;
     console.log(b1)
-//alert(a5);
+//alert(b1);
 document.write(b1)
 
 let b2=10;
