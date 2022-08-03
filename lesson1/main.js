@@ -82,14 +82,21 @@ let c=true;
     console.log(typeof c)
 
 
-let f1='Olena';
-    console.log(!!f1)
-    let inputdata1 = prompt(!!f1)
+// let f1='Havrylyshyn';
+//     console.log(f1)
+//     let inputdata1 = prompt(f1)
+//
+// let f2='Olena';
+//     console.log(f2)
+//     let inputdata2= prompt(f2)
+//
+// let f3='Mykolaivna';
+//     console.log(f3)
+//     let inputdata3= prompt(f3)\
 
-let f2='Havrylyshyn';
-    console.log(!!f2)
-    let inputdata2= prompt(!!f2)
-
-let f3='Mykolaivna';
-    console.log(!!f3)
-    let inputdata3= prompt(!!f3)
+let f1='Havrylyshyn'
+let f2='Olena'
+let f3='Mykolaivna'
+let f4= 23
+console.log(f1+ ' '+f2+ " "+f3+ " "+f4)
+let inputdata = prompt(f1, f2, f3, f4)
